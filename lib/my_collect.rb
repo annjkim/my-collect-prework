@@ -1,4 +1,5 @@
 def collect(collection)
   i = 0
-  while
+  new_collection = []
+  while 
 end
